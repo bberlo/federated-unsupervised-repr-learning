@@ -10,3 +10,4 @@ This means that the code will have to be re-written, or included into another pr
 The experiments were conducted with pre-processed datasets given by the practical supervisor.
 Pre-processed datasets, including pre-processing scripts, used to conduct the experiments are also not provided.
 The original datasets used throughout the experiments include MobiAct (https://bmi.hmu.gr/the-mobifall-and-mobiact-datasets-2/), HHAR (http://archive.ics.uci.edu/ml/datasets/heterogeneity+activity+recognition), and HAPT (http://archive.ics.uci.edu/ml/datasets/smartphone-based+recognition+of+human+activities+and+postural+transitions).
+
