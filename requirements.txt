@@ -1,0 +1,10 @@
+tensorflow-gpu==1.13.1
+aiohttp==3.5.4
+h5py==2.9.0
+json-tricks==3.12.4
+matplotlib==3.0.2
+numpy==1.16.2
+pandas==0.24.2
+requests==2.21.0
+scikit-learn==0.20.1
+tabulate==0.8.2
